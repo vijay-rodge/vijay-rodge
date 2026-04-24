@@ -9,7 +9,7 @@ I’m a **Computer Engineering student** passionate about building impactful pro
 🌍 Pune, India  
 📧 [rodgevijay1@gmail.com](mailto:rodgevijay1@gmail.com)  
 📱 +91 9028156972  
-🌐 [Portfolio]()  
+🌐 [Portfolio](https://portfolio-wheat-ten-wimgj1dfqm.vercel.app/)  
 💼 [LinkedIn](www.linkedin.com/in/vijay-rodge)  
 💻 [GitHub](https://github.com/vijay-rodge)  
 
@@ -41,7 +41,7 @@ I’m a **Computer Engineering student** passionate about building impactful pro
 
 ## 📌 Featured Projects  
 
-🔹 **[HealthMate](#)** *(Final Year Project)*  
+🔹 **[EduPortal](#)** *(Final Year Project)*  
 EduPortal is a web application that streamlines academic management by handling student records, attendance tracking, and assignment management in one platform. Developed using JavaScript and database integration, it provides a user-friendly and efficient solution for managing institutional data.  
 *Tech:* html, CSS, JavaScript, Rest API's, MongoDB, NodeJS, ExpressJS, 
 
