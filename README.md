@@ -43,19 +43,18 @@ I’m a **Computer Engineering student** passionate about building impactful pro
 
 🔹 **[EduPortal](#)** *(Final Year Project)*  
 EduPortal is a web application that streamlines academic management by handling student records, attendance tracking, and assignment management in one platform. Developed using JavaScript and database integration, it provides a user-friendly and efficient solution for managing institutional data.  
-*Tech:* html, CSS, JavaScript, Rest API's, MongoDB, NodeJS, ExpressJS, 
+*Tech:* html, CSS, JavaScript, Rest API's, MongoDB, Node.JS, Express.JS, 
 
 🔹 **[HealthMate](https://github.com/vijay-rodge/CEP-PROJECT)**  
 🩺 HealthMate — Your Digital Health Awareness Companion HealthMate is a smart and interactive web application designed to provide quick and reliable health awareness information. It helps users easily learn about various diseases, their symptoms, causes, and preventive measures.
-*Tech:* html, CSS, JavaScript, Rest API's, image OCR, text recognization, wikipedia API   
+*Tech:* HTML, CSS, JavaScript, Rest API's, image OCR, text recognization, wikipedia API   
 
 🔹 **[Kisan-Mitra](https://github.com/vijay-rodge/Kisan-Mitra)**  
-RESTful API combining video sharing and microblogging. Supports authentication, video uploads, likes, comments, subscriptions, and CRUD posts.  
-*Tech:* Node.js, Express.js, React.js, MongoDB, Multer, Cloudinary, JWT  
+Kisan Mitra is an intelligent web application designed to assist farmers in making informed decisions. By asking simple follow-up questions, it helps users discover relevant government schemes tailored to their needs. The platform also provides real-time weather updates, enabling farmers to plan their activities more effectively and reduce risks. Built with a focus on accessibility and practicality, Kisan Mitra acts as a digital companion for modern farming.*Tech:* Node.js, *Tech:* HTML, CSS, JavaScript, Express.js, React.js, MongoDB, Rest API, Node.Js 
 
 🔹 **[resume-ats-checker](https://github.com/vijay-rodge/resume-ats-checker)**  
 Resume-ATS-Checker is a smart web app that analyzes resumes for ATS compatibility, scores them based on industry standards, and offers targeted improvements to boost shortlisting chances.  
-*Tech:* Node.js, Express.js, React.js, MongoDB, Multer, Cloudinary, JSON Web Tokens (JWT)
+*Tech:* Node.js, Express.js, React.js, MongoDB
 
 🔹 **[currency converter](https://github.com/vijay-rodge/mini-project-Currency-Converter)**  
 A reliable API-based currency converter that delivers the latest global exchange rates on demand. Designed for simplicity and efficiency, the app allows users to convert between multiple currencies quickly and view updated values instantly.
