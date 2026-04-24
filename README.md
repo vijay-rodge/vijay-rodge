@@ -10,7 +10,7 @@ I’m a **Computer Engineering student** passionate about building impactful pro
 📧 [rodgevijay1@gmail.com](mailto:rodgevijay1@gmail.com)  
 📱 +91 9028156972  
 🌐 [Portfolio](https://portfolio-wheat-ten-wimgj1dfqm.vercel.app/)  
-💼 [LinkedIn](www.linkedin.com/in/vijay-rodge)  
+💼 [LinkedIn](https://www.linkedin.com/in/vijay-rodge/)  
 💻 [GitHub](https://github.com/vijay-rodge)  
 
 ---
