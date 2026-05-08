@@ -9,7 +9,7 @@ I’m a **Computer Engineering student** passionate about building impactful pro
 🌍 Pune, India  
 📧 [rodgevijay1@gmail.com](mailto:rodgevijay1@gmail.com)  
 📱 +91 9028156972  
-🌐 [Portfolio](https://portfolio-wheat-ten-wimgj1dfqm.vercel.app/)  
+🌐 [Portfolio](https://my-portfolio-8bsk53q98-vijay-rodges-projects.vercel.app/)  
 💼 [LinkedIn](https://www.linkedin.com/in/vijay-rodge/)  
 💻 [GitHub](https://github.com/vijay-rodge)  
 
