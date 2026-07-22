@@ -56,10 +56,6 @@ Kisan Mitra is an intelligent web application designed to assist farmers in maki
 Resume-ATS-Checker is a smart web app that analyzes resumes for ATS compatibility, scores them based on industry standards, and offers targeted improvements to boost shortlisting chances.  
 *Tech:* Node.js, Express.js, React.js, MongoDB
 
-🔹 **[currency converter](https://github.com/vijay-rodge/mini-project-Currency-Converter)**  
-A reliable API-based currency converter that delivers the latest global exchange rates on demand. Designed for simplicity and efficiency, the app allows users to convert between multiple currencies quickly and view updated values instantly.
-*Tech:* HTML, CSS, JavaScript
-
 🔹 **[weather-check](https://github.com/vijay-rodge/weather-check)**  
 A simple JavaScript weather app that fetches current weather and a 3-day forecast using the goweather.xyz API. Users can enter a city name and view weather details dynamically on the webpage.
 *Tech:* HTML, CSS, JS, Rest API
