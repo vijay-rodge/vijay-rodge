@@ -11,7 +11,6 @@ I’m a **Computer Engineering student** passionate about building impactful pro
 📱 +91 9028156972  
 🌐 [Portfolio](https://vijayrodge.is-a.dev/)  
 💼 [LinkedIn](https://www.linkedin.com/in/vijay-rodge/)  
-💻 [GitHub](https://github.com/vijay-rodge)  
 
 ---
 
@@ -19,7 +18,6 @@ I’m a **Computer Engineering student** passionate about building impactful pro
 
 - 🎓 Pursuing **B.E. in Computer Engineering** (SPPU) – *CGPA: 8.65*  
 - 💼 Experience as a **GenAI Powered Data Analytics Job Simulation** at *TATA Forge*  
-- 🛠️ Freelanced as a **Frontend & Database Developer** – improved client UI by 20%  
 - 🌱 Currently learning **Backend** & preparing for **Campus Placements (Aptitude + DSA)**  
 - 🚀 Hackathon participant with experience in **AI + VR/AR solutions**  
 - 💡 Interested in **EdTech, AI-powered assistants, and scalable platforms**  
@@ -28,7 +26,7 @@ I’m a **Computer Engineering student** passionate about building impactful pro
 
 ## 🛠️ Tech Stack  
 
-### 💻 Languages  
+### 💻 Languages 
 `Java (Advanced)` | `JavaScript` | `C++` | `C` | `Python`  
 
 ### 🌐 Full-Stack Development  
@@ -36,29 +34,6 @@ I’m a **Computer Engineering student** passionate about building impactful pro
 
 ### ⚡ Tools & Platforms  
 `Git & GitHub` | `Postman` | `Figma` | `AWS Basics`  
-
----
-
-## 📌 Featured Projects  
-
-🔹 **[EduPortal](#)** *(Final Year Project)*  
-EduPortal is a web application that streamlines academic management by handling student records, attendance tracking, and assignment management in one platform. Developed using JavaScript and database integration, it provides a user-friendly and efficient solution for managing institutional data.  
-*Tech:* html, CSS, JavaScript, Rest API's, MongoDB, Node.JS, Express.JS, 
-
-🔹 **[HealthMate](https://github.com/vijay-rodge/CEP-PROJECT)**  
-🩺 HealthMate — Your Digital Health Awareness Companion HealthMate is a smart and interactive web application designed to provide quick and reliable health awareness information. It helps users easily learn about various diseases, their symptoms, causes, and preventive measures.
-*Tech:* HTML, CSS, JavaScript, Rest API's, image OCR, text recognization, wikipedia API   
-
-🔹 **[Kisan-Mitra](https://github.com/vijay-rodge/Kisan-Mitra)**  
-Kisan Mitra is an intelligent web application designed to assist farmers in making informed decisions. By asking simple follow-up questions, it helps users discover relevant government schemes tailored to their needs. The platform also provides real-time weather updates, enabling farmers to plan their activities more effectively and reduce risks. Built with a focus on accessibility and practicality, Kisan Mitra acts as a digital companion for modern farming.*Tech:* Node.js, *Tech:* HTML, CSS, JavaScript, Express.js, React.js, MongoDB, Rest API, Node.Js 
-
-🔹 **[resume-ats-checker](https://github.com/vijay-rodge/resume-ats-checker)**  
-Resume-ATS-Checker is a smart web app that analyzes resumes for ATS compatibility, scores them based on industry standards, and offers targeted improvements to boost shortlisting chances.  
-*Tech:* Node.js, Express.js, React.js, MongoDB
-
-🔹 **[weather-check](https://github.com/vijay-rodge/weather-check)**  
-A simple JavaScript weather app that fetches current weather and a 3-day forecast using the goweather.xyz API. Users can enter a city name and view weather details dynamically on the webpage.
-*Tech:* HTML, CSS, JS, Rest API
 
 ---
 
