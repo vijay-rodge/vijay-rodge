@@ -6,21 +6,13 @@ I’m a **Computer Engineering student** passionate about building impactful pro
 
 💡 My focus: *Bridging the gap between ideas and technology through scalable, user-friendly solutions.*  
 
-🌍 Pune, India  
-📧 [rodgevijay1@gmail.com](mailto:rodgevijay1@gmail.com)  
-📱 +91 9028156972  
-🌐 [Portfolio](https://vijayrodge.is-a.dev/)  
-💼 [LinkedIn](https://www.linkedin.com/in/vijay-rodge/)  
-
----
-
-## 🧑‍💻 About Me  
-
-- 🎓 Pursuing **B.E. in Computer Engineering** (SPPU) – *CGPA: 8.65*  
-- 💼 Experience as a **GenAI Powered Data Analytics Job Simulation** at *TATA Forge*  
-- 🌱 Currently learning **Backend** & preparing for **Campus Placements (Aptitude + DSA)**  
-- 🚀 Hackathon participant with experience in **AI + VR/AR solutions**  
-- 💡 Interested in **EdTech, AI-powered assistants, and scalable platforms**  
+<p align="left">
+  📍 Pune, India &nbsp;|&nbsp;
+  <a href="mailto:rodgevijay1@gmail.com">📧 Email</a> &nbsp;|&nbsp;
+  <a href="tel:+919028156972">📞 +91 9028156972</a> &nbsp;|&nbsp;
+  <a href="https://vijayrodge.is-a.dev" target="_blank">🌐 Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/vijay-rodge" target="_blank">💼 LinkedIn</a>
+</p>
 
 ---
 
