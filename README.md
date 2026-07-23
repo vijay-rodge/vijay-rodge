@@ -24,19 +24,6 @@ I’m a **Computer Engineering student** passionate about building impactful pro
 
 ---
 
-## 🛠️ Tech Stack  
-
-### 💻 Languages 
-`Java (Advanced)` | `JavaScript` | `C++` | `C` | `Python`  
-
-### 🌐 Full-Stack Development  
-`Node.js` | `Express.js` | `MongoDB` | `SQL` | `Bootstrap` | `REST APIs` 
-
-### ⚡ Tools & Platforms  
-`Git & GitHub` | `Postman` | `Figma` | `AWS Basics`  
-
----
-
 ## 🚀 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
