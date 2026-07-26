@@ -8,7 +8,7 @@ I’m a **Computer Engineering student** passionate about building impactful pro
 
 <p align="left">
   📍 Pune, India &nbsp;|&nbsp;
-  <a href="mailto:rodgevijay1@gmail.com">📧 Email</a> &nbsp;|&nbsp;
+  <a href="mailto:vijayrodge.dev@gmail.com">📧 Email</a> &nbsp;|&nbsp;
   <a href="tel:+919028156972">📞 +91 9028156972</a> &nbsp;|&nbsp;
   <a href="https://vijayrodge.is-a.dev" target="_blank">🌐 Portfolio</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/vijay-rodge" target="_blank">💼 LinkedIn</a>
