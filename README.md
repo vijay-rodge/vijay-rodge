@@ -48,7 +48,7 @@ I’m a **Computer Engineering student** passionate about building impactful pro
 - Git, GitLab, GitHub Fundamentals for Software Developers – Udemy *(Apr 2026)*  
 - JavaScript Master Course From Beginner to Expert Developer – Udemy *(Sep 2025)*  
 - Generative AI Literacy – IT-ITeS SSC NASSCOM *(Nov 2025)*  
-- AI Model Context Protocol Advanced Topics – Anthropic *(Mar 2026)*  
+- TCS iON Career Edge - AI Foundation – TCS iON *(Jul 2026)*  
 - Data Structures and Algorithms using Java – infosys *(April 2026)*  
 - Software Engineering and Agile software development – infosys *(Apr 2026)*  
 
