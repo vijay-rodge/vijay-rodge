@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vijay Rodge  
 
-🎯 *Computer Engineering Student | Frontend Developer | Problem Solver | Tech Enthusiast*  
+🎯 *Computer Engineering Student | FullStack (MERN) Developer | Problem Solver | Tech Enthusiast*  
 
 I’m a **Computer Engineering student** passionate about building impactful products. I specialize in **Frontend Development**, love solving **DSA problems**, and enjoy working on **AI, AR/VR, and EdTech projects**.  
 
