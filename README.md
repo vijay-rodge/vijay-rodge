@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vijay Rodge
+# 👋 Hi, I'm Vijay 
 
 🎯 *Computer Engineering Student | FullStack (MERN) Developer | Problem Solver | Tech Enthusiast*  
 
