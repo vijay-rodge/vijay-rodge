@@ -61,4 +61,6 @@ I’m a **Computer Engineering student** passionate about building impactful pro
 
 ---
 
+![Happy Coding](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72)
+
 ⭐️ From [Vijay Rodge](https://github.com/vijay-rodge)  
