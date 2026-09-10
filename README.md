@@ -54,13 +54,8 @@ I’m a **Computer Engineering student** passionate about building impactful pro
 
 ---
 
-## 📊 GitHub Stats  
-
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijay-rodge&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-rodge&layout=compact&theme=radical)  
-
----
+⭐️ From [Vijay Rodge](https://github.com/vijay-rodge) 
 
 ![Happy Coding](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72)
 
-⭐️ From [Vijay Rodge](https://github.com/vijay-rodge)  
+ 
