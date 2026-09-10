@@ -1,22 +1,22 @@
-# 👋 Hi, I'm Vijay Rodge
+# Hi, I'm Vijay Rodge
 
-🎯 *Computer Engineering Student | FullStack (MERN) Developer | Problem Solver | Tech Enthusiast*  
+*Computer Engineering Student | FullStack (MERN) Developer | Problem Solver | Tech Enthusiast*  
 
 I’m a **Computer Engineering student** passionate about building impactful products. I specialize in **Frontend Development**, love solving **DSA problems**, and enjoy working on **AI, and EdTech projects**.  
 
-💡 My focus: *Bridging the gap between ideas and technology through scalable, user-friendly solutions.*  
+My focus: *Bridging the gap between ideas and technology through scalable, user-friendly solutions.*  
 
 <p align="left">
-  📍 Pune, India &nbsp;|&nbsp;
-  <a href="mailto:vijayrodge.dev@gmail.com">📧 Email</a> &nbsp;|&nbsp;
-  <a href="tel:+919028156972">📞 +91 9028156972</a> &nbsp;|&nbsp;
-  <a href="https://vijayrodge.is-a.dev" target="_blank">🌐 Portfolio</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/vijay-rodge" target="_blank">💼 LinkedIn</a>
+  Pune, India &nbsp;|&nbsp;
+  <a href="mailto:vijayrodge.dev@gmail.com">Email</a> &nbsp;|&nbsp;
+  <a href="tel:+919028156972">+91 9028156972</a> &nbsp;|&nbsp;
+  <a href="https://vijayrodge.is-a.dev" target="_blank">Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/vijay-rodge" target="_blank">LinkedIn</a>
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -34,7 +34,7 @@ I’m a **Computer Engineering student** passionate about building impactful pro
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-## 💼 Experience  
+## Experience  
 
 **GenAI Powered Data Analytics Job Simulation** *(April 2026 – Jun 2026)*  
 - Exploratory data analysis and risk profiling 
@@ -43,7 +43,7 @@ I’m a **Computer Engineering student** passionate about building impactful pro
  
 ---
 
-## 📜 Certifications  
+## Certifications  
 
 - Git, GitLab, GitHub Fundamentals for Software Developers – Udemy *(Apr 2026)*  
 - JavaScript Master Course From Beginner to Expert Developer – Udemy *(Sep 2025)*  
