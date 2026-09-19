@@ -76,12 +76,7 @@ My focus: *Bridging the gap between ideas and technology through scalable, user-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijay-rodge&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vijay-rodge&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vijay-rodge&theme=github_dark" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="85%" />
 </p>
 
 ---
@@ -93,12 +88,6 @@ My focus: *Bridging the gap between ideas and technology through scalable, user-
 </p>
 
 ---
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="75%" />
-</p>
-
-
 
 ⭐️ From [Vijay Rodge](https://github.com/vijay-rodge) 
 
