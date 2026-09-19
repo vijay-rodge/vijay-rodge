@@ -53,6 +53,8 @@ My focus: *Bridging the gap between ideas and technology through scalable, user-
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
+---
+
 ## Experience  
 
 **GenAI Powered Data Analytics Job Simulation** *(April 2026 – Jun 2026)*  
