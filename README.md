@@ -1,3 +1,4 @@
+<div align="left">
 # Hi, I'm Vijay Rodge
 
 *Computer Engineering Student | FullStack (MERN) Developer | Problem Solver | Tech Enthusiast*  
@@ -14,8 +15,12 @@ My focus: *Bridging the gap between ideas and technology through scalable, user-
   <a href="https://linkedin.com/in/vijay-rodge" target="_blank">LinkedIn</a>
 </p>
 
+</div>
+
 ---
 
+<div align="center">
+  
 ##  Tech Stack
 
 ### Languages
@@ -55,6 +60,10 @@ My focus: *Bridging the gap between ideas and technology through scalable, user-
 
 ---
 
+</div>
+
+<div align="center">
+
 ## Experience  
 
 **GenAI Powered Data Analytics Job Simulation** *(April 2026 – Jun 2026)*  
@@ -63,6 +72,10 @@ My focus: *Bridging the gap between ideas and technology through scalable, user-
 - Predicting delinquency with AI  
  
 ---
+
+</div>
+
+<div align="center">
 
 ## Certifications  
 
@@ -74,6 +87,10 @@ My focus: *Bridging the gap between ideas and technology through scalable, user-
 - Software Engineering and Agile software development – infosys springboard *(Apr 2026)*  
 
 ---
+
+</div>
+
+<div align="center">
 
 ## GitHub Stats
 
@@ -93,5 +110,8 @@ My focus: *Bridging the gap between ideas and technology through scalable, user-
 @From [Vijay Rodge](https://github.com/vijay-rodge) 
 
 ![Happy Coding](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72)
+
+
+</div>
 
  
