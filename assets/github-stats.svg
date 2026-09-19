@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="850" height="310" viewBox="0 0 850 310">
+
+<rect width="850" height="310" rx="14"
+      fill="#0d1117"
+      stroke="#30363d"/>
+
+<text x="35" y="45"
+      fill="#58a6ff"
+      font-family="Arial, sans-serif"
+      font-size="22"
+      font-weight="bold">
+  vijay-rodge
+</text>
+
+<text x="760" y="45"
+      text-anchor="end"
+      fill="#8b949e"
+      font-family="Arial, sans-serif"
+      font-size="13">
+  at a glance
+</text>
+
+<line x1="35" y1="65" x2="815" y2="65"
+      stroke="#30363d"/>
+
+<!-- Row 1 -->
+
+<text x="45" y="105"
+      fill="#f0f6fc"
+      font-family="Arial, sans-serif"
+      font-size="25"
+      font-weight="bold">
+  0
+</text>
+
+<text x="45" y="128"
+      fill="#8b949e"
+      font-family="Arial, sans-serif"
+      font-size="13">
+  Total stars
+</text>
+
+<text x="300" y="105"
+      fill="#f0f6fc"
+      font-family="Arial, sans-serif"
+      font-size="25"
+      font-weight="bold">
+  26
+</text>
+
+<text x="300" y="128"
+      fill="#8b949e"
+      font-family="Arial, sans-serif"
+      font-size="13">
+  Public repos
+</text>
+
+<text x="555" y="105"
+      fill="#f0f6fc"
+      font-family="Arial, sans-serif"
+      font-size="25"
+      font-weight="bold">
+  4
+</text>
+
+<text x="555" y="128"
+      fill="#8b949e"
+      font-family="Arial, sans-serif"
+      font-size="13">
+  Followers
+</text>
+
+<!-- Row 2 -->
+
+<text x="45" y="190"
+      fill="#f0f6fc"
+      font-family="Arial, sans-serif"
+      font-size="25"
+      font-weight="bold">
+  436
+</text>
+
+<text x="45" y="213"
+      fill="#8b949e"
+      font-family="Arial, sans-serif"
+      font-size="13">
+  Contributions (1y)
+</text>
+
+<text x="300" y="190"
+      fill="#f0f6fc"
+      font-family="Arial, sans-serif"
+      font-size="25"
+      font-weight="bold">
+  16
+</text>
+
+<text x="300" y="213"
+      fill="#8b949e"
+      font-family="Arial, sans-serif"
+      font-size="13">
+  Current streak
+</text>
+
+<text x="555" y="190"
+      fill="#f0f6fc"
+      font-family="Arial, sans-serif"
+      font-size="25"
+      font-weight="bold">
+  24
+</text>
+
+<text x="555" y="213"
+      fill="#8b949e"
+      font-family="Arial, sans-serif"
+      font-size="13">
+  Longest streak
+</text>
+
+<line x1="35" y1="240" x2="815" y2="240"
+      stroke="#30363d"/>
+
+<text x="45" y="270"
+      fill="#8b949e"
+      font-family="Arial, sans-serif"
+      font-size="14">
+  GitHub activity • Automatically updated
+</text>
+
+</svg>
