@@ -92,6 +92,14 @@ My focus: *Bridging the gap between ideas and technology through scalable, user-
   <img src="./assets/metrics.languages.svg" alt="Most Used Languages">
 </p>
 
+---
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="75%" />
+</p>
+
+
+
 ⭐️ From [Vijay Rodge](https://github.com/vijay-rodge) 
 
 ![Happy Coding](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72)
