@@ -73,7 +73,7 @@ My focus: *Bridging the gap between ideas and technology through scalable, user-
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="85%" />
@@ -81,7 +81,7 @@ My focus: *Bridging the gap between ideas and technology through scalable, user-
 
 
 
-## 💻 Most Used Languages
+## Most Used Languages
 
 <p align="center">
   <img src="./assets/metrics.languages.svg" alt="Most Used Languages">
@@ -89,7 +89,7 @@ My focus: *Bridging the gap between ideas and technology through scalable, user-
 
 ---
 
-⭐️ From [Vijay Rodge](https://github.com/vijay-rodge) 
+@From [Vijay Rodge](https://github.com/vijay-rodge) 
 
 ![Happy Coding](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72)
 
