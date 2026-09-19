@@ -78,9 +78,8 @@ My focus: *Bridging the gap between ideas and technology through scalable, user-
 ## GitHub Stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="85%" />
+  <img src="./assets/github-stats.svg" width="70%" />
 </p>
-
 
 
 ## Most Used Languages
