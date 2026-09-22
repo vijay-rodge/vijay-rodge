@@ -9,7 +9,7 @@ on:
   push:
     branches:
       - main
-      
+
 concurrency:
   group: github-profile-updates
   cancel-in-progress: false
@@ -33,20 +33,27 @@ jobs:
           python3 - <<'PY'
           import os
           import json
+          import re
           import urllib.request
           from datetime import date, timedelta
 
           TOKEN = os.environ["GITHUB_TOKEN"]
           USERNAME = os.environ["GITHUB_USERNAME"]
 
+          # ============================================================
+          # 1. Get normal GitHub API data
+          # ============================================================
+
           query = """
           query($login: String!) {
             user(login: $login) {
               login
               name
+
               followers {
                 totalCount
               }
+
               repositories(
                 first: 100
                 ownerAffiliations: OWNER
@@ -58,9 +65,11 @@ jobs:
                   stargazerCount
                 }
               }
+
               contributionsCollection {
                 contributionCalendar {
                   totalContributions
+
                   weeks {
                     contributionDays {
                       date
@@ -100,14 +109,59 @@ jobs:
           user = data["data"]["user"]
 
           repos = user["repositories"]["nodes"]
-          stars = sum(repo["stargazerCount"] for repo in repos)
+
+          stars = sum(
+              repo["stargazerCount"]
+              for repo in repos
+          )
 
           followers = user["followers"]["totalCount"]
+
           public_repos = user["repositories"]["totalCount"]
 
-          calendar = user["contributionsCollection"]["contributionCalendar"]
+          calendar = (
+              user["contributionsCollection"]
+              ["contributionCalendar"]
+          )
 
-          contributions = calendar["totalContributions"]
+          # ============================================================
+          # 2. Get EXACT contribution count shown on GitHub profile UI
+          # ============================================================
+
+          profile_url = f"https://github.com/{USERNAME}"
+
+          profile_request = urllib.request.Request(
+              profile_url,
+              headers={
+                  "User-Agent": "Mozilla/5.0",
+                  "Accept": "text/html"
+              }
+          )
+
+          with urllib.request.urlopen(profile_request) as response:
+              profile_html = response.read().decode("utf-8", errors="ignore")
+
+          contribution_match = re.search(
+              r'id="js-contribution-activity-description"[^>]*>'
+              r'\s*([\d,]+)\s*'
+              r'contributions\s+in\s+the\s+last\s+year',
+              profile_html,
+              re.IGNORECASE | re.DOTALL
+          )
+
+          if not contribution_match:
+              raise SystemExit(
+                  "Could not find GitHub profile contribution count"
+              )
+
+          contributions = int(
+              contribution_match.group(1).replace(",", "")
+          )
+
+          # ============================================================
+          # 3. Contribution days from GraphQL
+          # Used for streak calculation
+          # ============================================================
 
           days = []
 
@@ -120,7 +174,10 @@ jobs:
 
           days.sort(key=lambda x: x["date"])
 
-          # Current streak
+          # ============================================================
+          # 4. Current streak
+          # ============================================================
+
           current_streak = 0
           check_date = date.today()
 
@@ -129,9 +186,8 @@ jobs:
               for d in days
           }
 
-          # GitHub's contribution calendar can include today.
-          # Start from today; if today has no contribution,
-          # start from yesterday.
+          # GitHub contribution calendar can include today.
+          # If today has no contribution, start from yesterday.
           if day_map.get(check_date, 0) == 0:
               check_date -= timedelta(days=1)
 
@@ -139,24 +195,43 @@ jobs:
               current_streak += 1
               check_date -= timedelta(days=1)
 
-          # Longest streak
+          # ============================================================
+          # 5. Longest streak
+          # ============================================================
+
           longest_streak = 0
           running = 0
 
           for d in days:
               if d["count"] > 0:
                   running += 1
-                  longest_streak = max(longest_streak, running)
+                  longest_streak = max(
+                      longest_streak,
+                      running
+                  )
               else:
                   running = 0
+
+          # ============================================================
+          # 6. Print values
+          # ============================================================
 
           print("Username:", USERNAME)
           print("Stars:", stars)
           print("Public repositories:", public_repos)
           print("Followers:", followers)
-          print("Contributions:", contributions)
+
+          print(
+              "Contributions (GitHub profile UI):",
+              contributions
+          )
+
           print("Current streak:", current_streak)
           print("Longest streak:", longest_streak)
+
+          # ============================================================
+          # 7. Generate SVG
+          # ============================================================
 
           os.makedirs("assets", exist_ok=True)
 
@@ -292,7 +367,11 @@ jobs:
 
           </svg>'''
 
-          with open("assets/github-stats.svg", "w", encoding="utf-8") as f:
+          with open(
+              "assets/github-stats.svg",
+              "w",
+              encoding="utf-8"
+          ) as f:
               f.write(svg)
 
           print("Created assets/github-stats.svg")
