@@ -309,5 +309,8 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: update GitHub stats"
-            git push
+
+            git pull --rebase origin main
+
+            git push origin main
           fi
