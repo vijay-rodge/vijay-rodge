@@ -125,37 +125,40 @@ jobs:
           )
 
           # ============================================================
-          # 2. Get EXACT contribution count shown on GitHub profile UI
+          # 2. Get contribution count from GitHub contribution graph
           # ============================================================
 
-          profile_url = f"https://github.com/{USERNAME}"
+          contributions_url = (
+              f"https://github.com/users/{USERNAME}/contributions"
+          )
 
-          profile_request = urllib.request.Request(
-              profile_url,
+          contributions_request = urllib.request.Request(
+              contributions_url,
               headers={
                   "User-Agent": "Mozilla/5.0",
-                  "Accept": "text/html"
+                  "Accept": "image/svg+xml,text/html"
               }
           )
 
-          with urllib.request.urlopen(profile_request) as response:
-              profile_html = response.read().decode("utf-8", errors="ignore")
-
-          contribution_match = re.search(
-              r'id="js-contribution-activity-description"[^>]*>'
-              r'\s*([\d,]+)\s*'
-              r'contributions\s+in\s+the\s+last\s+year',
-              profile_html,
-              re.IGNORECASE | re.DOTALL
-          )
-
-          if not contribution_match:
-              raise SystemExit(
-                  "Could not find GitHub profile contribution count"
+          with urllib.request.urlopen(contributions_request) as response:
+              contribution_graph = response.read().decode(
+                  "utf-8",
+                  errors="ignore"
               )
 
-          contributions = int(
-              contribution_match.group(1).replace(",", "")
+          counts = re.findall(
+              r'data-count="(\d+)"',
+              contribution_graph
+          )
+
+          if not counts:
+              raise SystemExit(
+                  "Could not find contribution data from GitHub graph"
+              )
+
+          contributions = sum(
+              int(count)
+              for count in counts
           )
 
           # ============================================================
@@ -186,8 +189,6 @@ jobs:
               for d in days
           }
 
-          # GitHub contribution calendar can include today.
-          # If today has no contribution, start from yesterday.
           if day_map.get(check_date, 0) == 0:
               check_date -= timedelta(days=1)
 
@@ -220,12 +221,7 @@ jobs:
           print("Stars:", stars)
           print("Public repositories:", public_repos)
           print("Followers:", followers)
-
-          print(
-              "Contributions (GitHub profile UI):",
-              contributions
-          )
-
+          print("Contributions (GitHub graph):", contributions)
           print("Current streak:", current_streak)
           print("Longest streak:", longest_streak)
 
