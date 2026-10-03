@@ -19,7 +19,7 @@ My focus: *Bridging the gap between ideas and technology through scalable, user-
 
 ---
 
-<div align="center">
+<div align="left">
   
 ##  Tech Stack
 
