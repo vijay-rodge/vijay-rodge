@@ -106,6 +106,21 @@ My focus: *Bridging the gap between ideas and technology through scalable, user-
   <img src="./assets/metrics.languages.svg" alt="Most Used Languages">
 </p>
 
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://harshad-kulkarni.is-a.dev/">
+    <img src="https://img.shields.io/badge/_Portfolio-Visit_My_Portfolio-000000?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/harshad-kulkarni-67582032a/">
+    <img src="https://img.shields.io/badge/_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kulharshad2006@gmail.com">
+    <img src="https://img.shields.io/badge/_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ![Happy Coding](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72)
 
