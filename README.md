@@ -111,13 +111,13 @@ My focus: *Bridging the gap between ideas and technology through scalable, user-
 ## Connect With Me
 
 <p align="center">
-  <a href="https://harshad-kulkarni.is-a.dev/">
+  <a href="https://vijayrodge.is-a.dev/">
     <img src="https://img.shields.io/badge/_Portfolio-Visit_My_Portfolio-000000?style=for-the-badge" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/harshad-kulkarni-67582032a/">
+  <a href="https://linkedin.com/in/vijay-rodge/">
     <img src="https://img.shields.io/badge/_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:kulharshad2006@gmail.com">
+  <a href="mailto:vijayrodge.dev@gmail.com">
     <img src="https://img.shields.io/badge/_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
