@@ -65,12 +65,17 @@ My focus: *Bridging the gap between ideas and technology through scalable, user-
 
 <div align="left">
 
-## Experience  
+### Experience
 
-**GenAI Powered Data Analytics Job Simulation** *(April 2026 – Jun 2026)*  
-- Exploratory data analysis and risk profiling 
-- Business report and data storytelling for collections strategy
-- Predicting delinquency with AI  
+**Infosys Springboard – Virtual Internship** *(2026)*
+- Completed structured technical learning modules and hands-on internship milestones.
+- Gained practical exposure through project-based learning and technical assignments.
+- Strengthened programming, problem-solving, and software development skills.
+
+**HackerRank – Campus Crew Member** *(2026 – Present)*
+- Promoting coding culture and technical learning within the campus community.
+- Supporting technical workshops, coding events, and student engagement initiatives.
+- Collaborating with Campus Crew members to build an active developer community.
  
 ---
 
