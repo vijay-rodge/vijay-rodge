@@ -1,5 +1,6 @@
 
 <h1 Hi, I'm Vijay Rodge </h1>
+<h1 align="center">Hi, I'm Rohit Rajendra Pokalwar 👋</h1>
 
 
 <h3 Computer Engineering Student | FullStack (MERN) Developer | Problem Solver | Tech Enthusiast* </h3> 
