@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi, I'm Vijay Shivaji Rodge </h1>
-<h3 align="centre"> Computer Engineering Student | DSA • FullStack (MERN) Developer </h3> 
+<h1 align="center"> Hi, I'm Vijay Shivaji Rodge </h1>
+<h3 align="center"> Computer Engineering Undergraduate | DSA • FullStack (MERN) Developer </h3> 
 
 <div align="left">
 
