@@ -1,5 +1,5 @@
 <div align="centre">
-## Hi, I'm Vijay Rodge
+<h1 Hi, I'm Vijay Rodge </h1>
 
 *Computer Engineering Student | FullStack (MERN) Developer | Problem Solver | Tech Enthusiast*  
 
