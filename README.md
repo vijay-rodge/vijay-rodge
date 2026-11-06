@@ -1,7 +1,9 @@
-<div align="centre">
+
 <h1 Hi, I'm Vijay Rodge </h1>
 
-*Computer Engineering Student | FullStack (MERN) Developer | Problem Solver | Tech Enthusiast*  
+
+<h3 Computer Engineering Student | FullStack (MERN) Developer | Problem Solver | Tech Enthusiast* </h3> 
+<div align="left">
 
 I’m a **Computer Engineering student** passionate about building impactful products. I specialize in **MERN Development**, love solving **DSA problems**, and enjoy working on **AI, and ML projects**.  
 
