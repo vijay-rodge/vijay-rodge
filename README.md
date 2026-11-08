@@ -117,7 +117,7 @@ My focus: *Bridging the gap between ideas and technology through scalable, user-
 ## Connect With Me
 
 <p align="center">
-  <a href="https://vijayrodge.is-a.dev/">
+  <a href="https://vijay-rodge.github.io/portfolio/">
     <img src="https://img.shields.io/badge/_Portfolio-Visit_My_Portfolio-000000?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/vijay-rodge/">
