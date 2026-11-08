@@ -12,7 +12,7 @@ My focus: *Bridging the gap between ideas and technology through scalable, user-
   Pune, India &nbsp;|&nbsp;
   <a href="mailto:vijayrodge.dev@gmail.com">Email</a> &nbsp;|&nbsp;
   <a href="tel:+919028156972">+91 9028156972</a> &nbsp;|&nbsp;
-  <a href="https://vijayrodge.is-a.dev" target="_blank">Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://vijay-rodge.github.io/portfolio/" target="_blank">Portfolio</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/vijay-rodge" target="_blank">LinkedIn</a>
 </p>
 
